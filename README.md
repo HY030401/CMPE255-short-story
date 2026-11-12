@@ -68,7 +68,7 @@ The presentation summarizes the main concepts and key takeaways from the article
 
 This video provides a walkthrough of the research paper, evaluation methods, and my personal analysis.
 
-**Video Link:** [Watch the Presentation](PASTE_VIDEO_LINK_HERE)
+**Video Link:** [Watch the Presentation](https://youtu.be/XDl8Wmzz9bg)
 
 ## Conclusion
 
